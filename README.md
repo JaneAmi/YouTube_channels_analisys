@@ -6,6 +6,6 @@ The project contains next stages:
 3. Data analysis;
 4. Creating a dashboard.
 
-All stages are described (here)[https://github.com/JaneAmi/YouTube_channels_analysis/blob/master/mainjpn.ipynb]
+All stages are described [here](https://github.com/JaneAmi/YouTube_channels_analysis/blob/master/mainjpn.ipynb)
 
 ![Dashboard](YC_dashboard.jpg)
